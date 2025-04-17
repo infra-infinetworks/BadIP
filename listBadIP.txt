@@ -1,4 +1,4 @@
-.# SPAM/Attack IP List (Blacklist IP)
+# SPAM/Attack IP List (Blacklist IP)
 8.219.120.85
 178.128.96.216
 107.173.152.225
