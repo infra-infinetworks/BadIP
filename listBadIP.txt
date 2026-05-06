@@ -1,6 +1,8 @@
 # SPAM/Attack IP List (Blacklist IP)
 ### blok sementara IP FIUU - AWS RMS
 13.250.131.118
+46.137.193.22
+18.139.82.185
 ###
 46.151.178.13
 45.148.10.67
