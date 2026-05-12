@@ -6,6 +6,7 @@
 ### Indonesia Black List
 157.15.40.62 #PT Trisari Data Indonesia
 ###
+104.238.222.26
 129.150.46.46
 103.153.183.73
 118.67.205.88
