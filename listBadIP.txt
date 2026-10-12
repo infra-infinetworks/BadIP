@@ -21,7 +21,7 @@
 130.94.42.43
 165.154.255.115
 ###
-### Korea Finance IoC
+### South Korean Financial Institutions IoC
 129.212.181.253
 124.155.252.63
 134.185.91.25
