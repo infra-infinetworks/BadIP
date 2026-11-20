@@ -1,3 +1,2 @@
-
-# IP Address      Nama          Layanan (PG/BG/emo/dsbt/esc)        ->  ops/sppt/name
-103.86.157.118   #OfficeOnly    all      -> fay
+# IP Address      ->  ops/sppt : name
+103.146.203.11   #-> sppt : fay
